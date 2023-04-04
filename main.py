@@ -16,3 +16,4 @@ for num in arr:
         negat_count+=1
 
 print(posit_count)
+print(negat_count)
