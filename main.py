@@ -1,6 +1,6 @@
 import math
 
-k = 5
+k = int(input())
 arr = []
 
 for i in range(1, k+1):
