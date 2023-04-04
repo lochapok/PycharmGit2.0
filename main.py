@@ -14,3 +14,5 @@ for num in arr:
         posit_count+=1
     elif num<0:
         negat_count+=1
+
+print(posit_count)
